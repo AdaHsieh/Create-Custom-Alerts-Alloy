@@ -1,0 +1,13 @@
+<Alloy>
+	<Window class="container" onClick="showDialog">
+		
+		<AlertDialog id="dialog" onClick="doClick" cancel="2">
+			<!-- The ButtonNames tag sets the buttonNames property. -->
+            <ButtonNames>
+                <ButtonName>Confirm</ButtonName>               
+                <ButtonName>Help</ButtonName>
+                <ButtonName>Cancel</ButtonName>
+            </ButtonNames>
+		</AlertDialog>
+	</Window>
+</Alloy>

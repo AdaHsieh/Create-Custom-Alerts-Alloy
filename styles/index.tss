@@ -1,0 +1,10 @@
+".container": {
+	backgroundColor:"white"
+}
+
+
+"#dialog":{
+	title:"File Delete",
+	message:"The file has been deleted"
+}
+
